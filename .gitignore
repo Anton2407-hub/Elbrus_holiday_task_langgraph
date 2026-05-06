@@ -1,0 +1,10 @@
+# Notebooks
+*.ipynb
+
+# Task files
+tasks.md
+task2.md
+task_04_03.md
+
+# Claude
+.claude/
